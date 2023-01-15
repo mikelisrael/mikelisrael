@@ -6,10 +6,8 @@
  ## Hi, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
  
  ## Github Stats
-<div align="right">
+![mikelisrael's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelisrael&show_icons=true&theme=dark&layout=compact) <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&count_private=true&show_icons=true&theme=dark)
-![mikelisrael's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelisrael&show_icons=true&theme=dark)
-</div>
 
 <!--
 **mikelisrael/mikelisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
