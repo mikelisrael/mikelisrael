@@ -1,10 +1,11 @@
 <div align="center">
  <img src="/header.png" alt="header" width="100%">
 </div>
+<br/>
+<br/>
+ 
+ ## Hello, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
 
-<div style="margin-top: 50px">
-  ## Hello, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
-</div>
 
 <!--
 **mikelisrael/mikelisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
