@@ -3,7 +3,15 @@
 </div>
 <br/>
  
- ## Hello, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
+ ## Hi, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
+ 
+ ## Github Stats
+<!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
+ -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelisrael&theme=dark&show_icons=true&layout=compact&langs_count=7) <br>
+![Mikelisrael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&theme=dark&show_icons=true)
 
 
 <!--
