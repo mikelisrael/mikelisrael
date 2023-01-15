@@ -5,7 +5,7 @@
  
  ## Hi, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
  
- <h3>Get to know me</h3>
+ <h3 style="color:brown">Get to know me</h3>
  
 - 🔭 I’m currently working on an inventory management system
 - 🌱 I’m currently learning how to use Mongodb and experimenting with different animation libraries to improve user experience.
