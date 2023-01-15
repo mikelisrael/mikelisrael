@@ -1,7 +1,7 @@
-<div align="center">
- <img src="/header.png" alt="header" width="100%">
-</div>
+<img src="/header.png" alt="header" width="100%">
 <br/>
+
+<img src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif" align="right" width="50%"/>
  
  ## Hi, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
  
@@ -14,7 +14,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif" align="right" width="50%"/>
 
  ## Github Stats
 ![mikelisrael's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelisrael&show_icons=true&theme=gotham&layout=compact)<br>
