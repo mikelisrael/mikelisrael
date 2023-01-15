@@ -6,11 +6,7 @@
  ## Hi, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
  
  ## Github Stats
-<!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
- -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&theme=dark&show_icons=true)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&theme=radical)<br>
 
 
 <!--
