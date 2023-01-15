@@ -2,7 +2,6 @@
  <img src="/header.png" alt="header" width="100%">
 </div>
 <br/>
-<br/>
  
  ## Hello, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
 
