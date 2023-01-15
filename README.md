@@ -6,7 +6,8 @@
  ## Hi, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
  
  ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&theme=radical)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&theme=dark&show_icons=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelisrael&theme=dark&show_icons=true&layout=compact&langs_count=7)
 
 
 <!--
