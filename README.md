@@ -14,6 +14,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<img src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif" align="right" width="50%"/>
+
  ## Github Stats
 ![mikelisrael's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelisrael&show_icons=true&theme=gotham&layout=compact)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&count_private=true&show_icons=true&theme=gotham)<br>
