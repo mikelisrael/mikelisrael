@@ -5,6 +5,7 @@
  
  ## Hi, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
  
+ <h3>Get to know me</h3>
  - 🔭 I’m currently working on an inventory management system
 - 🌱 I’m currently learning how to use Mongodb and experimenting with different animation libraries to improve user experience.
 - 👯 I’m looking to collaborate on any projects related to front-end development, especially those that involve building interactive UIs and improving web performance
