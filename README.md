@@ -6,7 +6,7 @@
  ## Hi, I am <a href="https://github.com/mikelisrael">mikelisrael</a>
  
  ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&theme=dark&show_icons=true)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&theme=dark)<br>
 
 
 <!--
