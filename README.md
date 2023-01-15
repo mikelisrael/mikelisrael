@@ -8,7 +8,6 @@
  
  
  ## Github Stats
-<img src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif" alt="GIF" align="right"/>
 ![mikelisrael's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelisrael&show_icons=true&theme=dark&layout=compact) <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikelisrael&count_private=true&show_icons=true&theme=dark)
 
