@@ -15,7 +15,7 @@
 <!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a big anime fan and play Call of Duty in my free time.
-- 😖 Exams
+- 😖 Exams atm
 
 
 ## Languages and Tools
