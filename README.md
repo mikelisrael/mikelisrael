@@ -5,7 +5,7 @@
  
  # Hi, I am <a href="https://github.com/mikelisrael">Michael Israel</a>
  
- <h3>Get to know me!</h3>
+ <h3>Get to know me!!</h3>
  
 - 🔭 I’m currently working on a fintech application for flamestar company and a all-in-one inventory management system
 - 🌱 I’m currently learning how to use Mongodb and experimenting with different animation libraries to improve user experience.
