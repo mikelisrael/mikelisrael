@@ -7,7 +7,7 @@
  
  <h3>Get to know me</h3>
  
-- 🔭 I’m currently working on a fintech application for flamestar company and a all-in-one inventory management system
+- 🔭 I’m currently working on a fintech application for flamestar company and an all-in-one inventory management system
 - 🌱 I’m currently learning how to use Mongodb and experimenting with different animation libraries to improve user experience.
 - 👯 I’m looking to collaborate on any projects related to front-end development, especially those that involve building interactive UIs and improving web performance. Reach out, I don't bite. 
 - 🤔 I’m looking for help with optimizing the performance of my code and learning more about security best practices.
