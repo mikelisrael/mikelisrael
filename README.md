@@ -18,19 +18,132 @@
 
 
 ## Languages and Tools
-<img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="html" width="30px">&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="css" width="30px">&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript" width="30px">&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/753/753244.png" alt="react" width="30px">&nbsp;
-<img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" width="30px">&nbsp;
-<img src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="nextjs" width="30px">&nbsp;
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png" alt="sanity" width="30px">&nbsp;
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="mongodb" width="30px">&nbsp;
-<img src="https://camo.githubusercontent.com/985c3b14cd4b891dc32e0ae0a8ca5e20066d1af4cbebdb1937c4d0d2368719cc/68747470733a2f2f6e6f64656a732e6f72672f7374617469632f696d616765732f6c6f676f732f6e6f64656a732d6e65772d70616e746f6e652d77686974652e737667" alt="nodejs" width="30px">&nbsp;
-<img src="https://camo.githubusercontent.com/b8ee9fd2e9b26a7265ece6dbc6f5c7449928b84f45a08fe5852d6a8dfd915fb3/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d49636f6e2d31373838432e706e67" width="30px" alt="git"/>&nbsp;
-<img src="https://camo.githubusercontent.com/c331fb3ce523afc2f3dd61aeb262dedeeeb4c850254e891adc1e0baf8f6c85b3/68747470733a2f2f766f79616765722e706f73746d616e2e636f6d2f6c6f676f2f706f73746d616e2d6c6f676f2d69636f6e2d6f72616e67652e737667" alt="postman" width="30px">&nbsp;
-
 <img src="https://camo.githubusercontent.com/9afefcbff89a66b497e623146404d0e0d51fd46d9cd4039f8580a339a2ad9cbc/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966" alt="coder" width="500px"/>
+
+### Languages and Tools:
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML</strong>
+      </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/128/732/732190.png"
+        width="48"
+        height="48"
+        alt="CSS"
+      />
+      <br /><strong>CSS</strong>
+      </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="javascript"
+        width="48"
+        height="48"
+        alt="Javascript"
+      />
+      <br /><strong>Javascript</strong>
+     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/128/753/753244.png"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+      </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png"
+        width="48"
+        height="48"
+        alt="Next.JS"
+      />
+      <br /><strong>Next.JS</strong>
+      </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.sanity.io/static/images/logo_rounded_square.png"
+        width="48"
+        height="48"
+        alt="Sanity"
+      />
+      <br /><strong>Sanity</strong>
+    </td>  
+    <td align="center" height="108" width="108">
+      <img
+     src="https://camo.githubusercontent.com/c331fb3ce523afc2f3dd61aeb262dedeeeb4c850254e891adc1e0baf8f6c85b3/68747470733a2f2f766f79616765722e706f73746d616e2e636f6d2f6c6f676f2f706f73746d616e2d6c6f676f2d69636f6e2d6f72616e67652e737667"
+        width="48"
+        height="48"
+        alt="Postman"
+      />
+      <br /><strong>Postman</strong>
+  </td> 
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node.js"
+      />
+      <br /><strong>Node.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+      <br /><strong>Npm</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn-icons-png.flaticon.com/128/5968/5968381.png"
+        width="48"
+        height="48"
+        alt="Typescript"
+      />
+      <br /><strong>Typescript</strong>
+    </td>
+  </tr>
+</table>
 
  ## Github Stats
 ![mikelisrael's Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelisrael&show_icons=true&theme=gotham&layout=compact)<br>
