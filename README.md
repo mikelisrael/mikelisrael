@@ -78,7 +78,7 @@
     </td>  
     <td align="center" height="108" width="108">
       <img
-     src="https://camo.githubusercontent.com/c331fb3ce523afc2f3dd61aeb262dedeeeb4c850254e891adc1e0baf8f6c85b3/68747470733a2f2f766f79616765722e706f73746d616e2e636f6d2f6c6f676f2f706f73746d616e2d6c6f676f2d69636f6e2d6f72616e67652e737667"
+     src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png"
         width="48"
         height="48"
         alt="Postman"
