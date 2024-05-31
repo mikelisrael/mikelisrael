@@ -45,6 +45,8 @@ I'm a Frontend Software Engineer from Lagos, Nigeria. With over 6 years of codin
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Npm](https://img.shields.io/badge/-Npm-CB3837?logo=npm&logoColor=white&style=flat-square)
 ![Typescript](https://img.shields.io/badge/-Typescript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
 
 ## 🏆 Projects
 Here are some projects I'm proud of:
