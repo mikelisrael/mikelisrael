@@ -3,7 +3,7 @@
 # Hey there! I'm [Michael Israel](https://github.com/mikelisrael) 👋
 
 ## 🎨 About Me...
-I'm a Frontend Software Engineer from Lagos, Nigeria. With over 6 years of coding experience, I create delightful web experiences using Next.js, React, and a sprinkle of other cool technologies.
+I'm a Frontend Software Engineer from Lagos, Nigeria. With over 7 years of coding experience, I create delightful web experiences using Next.js, React, and a sprinkle of other cool technologies.
 
 - 🔭 **Currently working on:** An all-in-one inventory management system.
 - 🌱 **Exploring:** Sanity for headless CMS integration and animation libraries to jazz up user experiences.
