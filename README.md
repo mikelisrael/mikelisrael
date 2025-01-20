@@ -29,7 +29,7 @@ I'm a Frontend Software Engineer from Lagos, Nigeria. With over 7 years of codin
   One of my key projects involved designing and implementing an advanced analytics dashboard for a data-driven platform. This project required a deep understanding of data visualization techniques and user interface design. I used React and Redux to build a highly customizable dashboard that allows users to personalize visual elements according to their needs. The dashboard features high-end charts and real-time data updates, which have increased operational efficiency by providing actionable insights and facilitating data-driven decision-making.
 
 <br/>
-<img src="https://camo.githubusercontent.com/f6a3ce319a938926c27df1feef26eeadac0d53253750363b0bdb8412f0726c3e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966" alt="coder" width="500px"/>
+<img src="http://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coder" width="500px"/>
 
 ## 🛠️ My Toolbox
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
