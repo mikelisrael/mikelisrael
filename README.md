@@ -42,7 +42,6 @@ I'm a Software Engineer based in Lagos, Nigeria, with experience delivering scal
 
 <br/>
 
-## My Toolbox
 ## 🛠️ My Toolbox
 
 ### Frontend
