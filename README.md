@@ -1,7 +1,7 @@
 <img src="/header.png" alt="header" width="100%"><br/>
 
 ## About Me
-I'm a Software Engineer based in Lagos, Nigeria, with experience delivering scalable web and mobile applications globally. I specialize in Next.js, React, React Native, and robust backend stacks powered by Supabase and Node.js.
+I am a Software Engineer based in Lagos, Nigeria. I have experience delivering scalable web and mobile applications across the world. I specialize in Next.js, React, React Native and solid backend stacks with Supabase and Node.js.
 
 - **Currently working on:** Ilere, a transparent real-estate marketplace connecting tenants and agents, and an enterprise HR suite at Organogram.  
 - **Exploring:** React Native performance patterns, real-time system design, and advanced animation with Reanimated and GSAP.  
@@ -16,22 +16,22 @@ I'm a Software Engineer based in Lagos, Nigeria, with experience delivering scal
 ## Professional Journey
 
 - **Building a Transparent Housing Marketplace (Ilere) — Ibadan, Nigeria**  
-  Architected and built Ilere, a fullstack mobile platform connecting tenants and agents in multiple Nigerian cities. The platform enforces a hard 10% agent fee cap and supports two tenant flows: direct agent contact or competitive bidding.  
+ Singly Architected and built Ilere, a fullstack mobile platform connecting tenants and agents in multiple Nigerian cities. The platform enforces a hard 10% agent fee cap and supports two tenant flows: direct agent contact or competitive bidding.  
   **Tech Stack:**  
   ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square) ![Expo Router](https://img.shields.io/badge/-Expo%20Router-000020?logo=expo&logoColor=white&style=flat-square) ![NativeWind](https://img.shields.io/badge/-NativeWind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white&style=flat-square) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-0055FF?logo=react&logoColor=white&style=flat-square) ![Reanimated](https://img.shields.io/badge/-Reanimated-FF6C37?logo=react&logoColor=white&style=flat-square) ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-007ACC?logo=react&logoColor=white&style=flat-square) ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white&style=flat-square)
 
 - **Shipping an Enterprise HR Suite (Organogram) — Lagos, Nigeria**  
-  Contributed to Workspace, a commercial HR, Payroll, Admin, and OKR suite in production. Focused on state management, dynamic routing, authentication, performance optimization, and shared coding standards across the team.  
+  Contributed to Workspace, a modern ERP consisting of a commercial HR, Payroll, Admin & OKR suite in production. Focused on state management, dynamic routing, authentication, performance tuning, and common coding standards across the team. 
   **Tech Stack:**  
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square) ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
 - **Delivering Financial Analytics at Scale (EMONEY) — USA**  
-  Built a profit-tracking dashboard with interactive tables, gamified Quests system, and multi-step validated forms for EMONEY.  
+  Solely designed and built a profit-tracking dashboard for EMONEY only, complete with interactive tables, a gamified Quests system, and multi-step validated forms.
   **Tech Stack:**  
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-0055FF?logo=react&logoColor=white&style=flat-square) ![Recharts](https://img.shields.io/badge/-Recharts-FF6C37?logo=react&logoColor=white&style=flat-square) ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-007ACC?logo=react&logoColor=white&style=flat-square) ![Zod](https://img.shields.io/badge/-Zod-000000?logo=typescript&logoColor=white&style=flat-square) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
 - **AI-Powered Restaurant Platform (Smart Menu AI) — Enugu, Nigeria**  
-  Designed a digital menu platform with real-time order updates, QR code generation, and AI-powered menu optimization. Built separate PWAs for Riders and Waiters as standalone products.  
+  Developed the front-end design for a digital menu platform that included live order updates, QR code generation, and AI menu optimization. Built separate PWAs for Riders and Waiters as separate products.
   **Tech Stack:**  
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square) ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white&style=flat-square) ![React Query](https://img.shields.io/badge/-React%20Query-0055FF?logo=react&logoColor=white&style=flat-square) ![Context API](https://img.shields.io/badge/-Context%20API-61DAFB?logo=react&logoColor=white&style=flat-square) ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=flat-square)
 
